@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-#define PRIME 19
+#define PRIME 2147483647;
 #define C 17
 
 
