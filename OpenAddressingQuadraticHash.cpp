@@ -142,7 +142,6 @@ public:
 
 
 	OpenAddressingQuadraticHashStr(int size, int a, int b) {
-		cout << "Q ";
 		this->tableSize = size;
 		this->a = a;
 		this->b = b;
