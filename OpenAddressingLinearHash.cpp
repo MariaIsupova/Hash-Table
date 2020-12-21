@@ -33,7 +33,6 @@ public:
 
 
 	OpenAddressingLinearHash(int size, int a, int b) {
-		cout << "L " << endl;
 		this->tableSize = size;
 		this->a = a;
 		this->b = b;
@@ -140,7 +139,6 @@ public:
 
 
 	OpenAddressingLinearHashStr(int size, int a, int b) {
-		cout << "L ";
 		this->tableSize = size;
 		this->a = a;
 		this->b = b;
