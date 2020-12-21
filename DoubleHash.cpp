@@ -225,7 +225,6 @@ public:
 		//cout << key << " found!  index " << doubleHashFunction(index1,index2,i) << endl;
 	}
 
-
 	void printHash() {
 		for (int i = 0; i < tableSize; i++) {
 			if (hashTable[i] != "-1" && hashTable[i] != "0") {
